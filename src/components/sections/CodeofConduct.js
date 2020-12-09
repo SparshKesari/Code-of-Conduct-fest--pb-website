@@ -129,6 +129,7 @@ However, if you decide to submit projects consisting of re-used code, or re-subm
    <p>If you have witnessed or experienced any transgressions of this Code of Conduct at a hackathon hosted on PointBlank, please report it to your hackathon organizer, or get in touch with PointBlank.</p>
    
    <br />
+   <hr/>
 </div>
 
           
